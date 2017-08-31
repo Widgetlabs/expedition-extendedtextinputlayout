@@ -1,0 +1,16 @@
+/.gradle
+/.idea/*
+!/.idea/inspectionProfiles
+!/.idea/codeStyleSettings.xml
+/captures
+/local.properties
+/projectFilesBackup/*
+/test
+.DS_Store
+.gradle
+build
+com_crashlytics_export_strings.xml
+*.iml
+*.iws
+*.swp
+*.hprof
